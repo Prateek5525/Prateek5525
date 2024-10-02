@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Prateek5525
-- 👀 I’m interested in React
+- 👀 I’m interested in Creating
 - 🌱 I’m currently learning MERN techstack
 - 💞️ I’m looking to collaborate on MERN
-- 📫 How to reach me:- message on  linkedin 
+- 📫 How to reach me:- Message me✨
 
 
 <!---
