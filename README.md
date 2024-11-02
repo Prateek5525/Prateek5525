@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prateek5525
 - 👀 I’m interested in Creating
 - 🌱 Learning Never Stops
-- 💞️ Open to colaboration
+- 💞️ Open to collaboration
 - 📫 How to reach me:- Message me✨
 
 
