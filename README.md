@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Prateek5525
 - 👀 I’m interested in Creating
-- 🌱 I’m currently learning MERN techstack
-- 💞️ I’m looking to collaborate on MERN
+- 🌱 Learning Never Stops
+- 💞️ Open to colaboration
 - 📫 How to reach me:- Message me✨
 
 
